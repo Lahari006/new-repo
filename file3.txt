@@ -1,0 +1,10 @@
+ANT : Build tool -> Execution and Build the artifact.
+
+* Initially we need to downlaod the jar/dependencies/images/logos in proper folder,
+* Manually we have create Directory Structure of ANT
+ eg : src -> java files
+      test -> java-test files
+      files -> files folders
+      target  -> manually
+* Build.xml script  ==> Mention all your customized commands, mention from src code download & execute, test cases should run
+etc - Script has be written from Scratch.
